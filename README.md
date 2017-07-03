@@ -3,7 +3,7 @@ Python script solving the Hartree-Fock equations for the electron gas at finite 
 
 ## Synopsis
 
-pyFTEGhf.py is a simple Python code solving the self-consistency equation for the (spin-unpolarized) uniform electron gas iin three dimensions at finite temperatures.
+pyFTEGhf.py is a simple Python code solving the self-consistency equation for the (spin-unpolarized) uniform electron gas in three dimensions at finite temperatures.
 
 ## Code Example
 
@@ -15,9 +15,9 @@ This code was used to generate the Hartree-Fock results for the heat capacity an
 
 If you use this code to generate data for publications please cite:
 
-"Effective mass of quasiparticles from thermodynamics"
-F. G. Eich, Markus Holzmann, and G. Vignale
-Phys. Rev. B ??, ?????? (2017)
+"Effective mass of quasiparticles from thermodynamics"  
+F. G. Eich, Markus Holzmann, and G. Vignale  
+Phys. Rev. B ??, ?????? (2017)  
 
 ## Installation
 
