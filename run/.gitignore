@@ -1,0 +1,7 @@
+# ignore everthing
+*
+
+# ... but .gitignore and *.py
+!.gitignore
+!*.py
+!mstarHF_ref.pdf
