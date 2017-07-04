@@ -1,0 +1,7 @@
+# ignore everthing
+*
+
+# ... but .gitignore and pyFTEGhf.pdf
+!.gitignore
+!pyFTEGhf.pdf
+
