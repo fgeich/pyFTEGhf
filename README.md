@@ -11,13 +11,14 @@ Some sample Python scripts using pyFTEGhf are provided in the run folder.
 
 ## Motivation
 
-This code was used to generate the Hartree-Fock results for the heat capacity and entropy of the three-dimensional electron gas published in Phys. Rev. B ??, ?????? (2017).
+This code was used to generate the Hartree-Fock results for the heat capacity and entropy of the three-dimensional electron gas published in Phys. Rev. B 96, 035132 (2017).
 
 If you use this code to generate data for publications please cite:
 
 "Effective mass of quasiparticles from thermodynamics"  
 F. G. Eich, Markus Holzmann, and G. Vignale  
-Phys. Rev. B ??, ?????? (2017)  
+Phys. Rev. B 96, 035132 (2017)
+https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.035132
 
 ## Installation
 
