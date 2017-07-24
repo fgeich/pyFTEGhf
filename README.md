@@ -17,7 +17,7 @@ If you use this code to generate data for publications please cite:
 
 "Effective mass of quasiparticles from thermodynamics"  
 F. G. Eich, Markus Holzmann, and G. Vignale  
-Phys. Rev. B 96, 035132 (2017)
+Phys. Rev. B 96, 035132 (2017)  
 https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.035132
 
 ## Installation
